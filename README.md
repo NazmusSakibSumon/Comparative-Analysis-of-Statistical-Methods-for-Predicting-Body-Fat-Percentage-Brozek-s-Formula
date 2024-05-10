@@ -1,0 +1,2 @@
+# Comparative-Analysis-of-Statistical-Methods-for-Predicting-Body-Fat-Percentage-Brozek-s-Formula
+The report investigates various linear regression methods to predict body fat percentage using Brozek’s formula, assessing models like linear regression, ridge regression, LASSO, PCR, and PLS. The data is split into training and testing sets, and model performance is evaluated using mean squared error and Monte Carlo Cross-Validation.
